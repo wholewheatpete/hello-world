@@ -9,6 +9,6 @@ python greet.py
 python greet.py --name Alice
 ```
 
-## Runing
+## Running
 
 Make sure you have Python 3 installed, then run the commands above.
